@@ -8,7 +8,8 @@ If I'm not coding tweeting, I'm likely shooting with my camera as a street photo
 
 > There is no Yoda. Continue to work to see what you can achieve.
 
-[![Teri's GitHub stats](https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=dark)](https://camo.githubusercontent.com/8c6d7586d73db7ed0f448c00ec5ad5439d9b793aa0fc11c174329f728bcd1e73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746572696579656e696b652673686f775f69636f6e733d74727565267468656d653d6461726b)
+[![Teri's GitHub stats](https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=dark)](https://camo.githubusercontent.com/8c6d7586d73db7ed0f448c00ec5ad5439d9b793aa0fc11c174329f728bcd1e73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746572696579656e696b652673686f775f69636f6e733d74727565267468656d653d6461726b){:target="_blank"}
+
 
 
 <!--
