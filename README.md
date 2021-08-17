@@ -15,6 +15,9 @@ If I'm not coding tweeting, I'm likely shooting with my camera as a street photo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terieyenike&layout=compact)](https://github.com/terieyenike/)
 
 
+### :zap: Recent GitHub Activity
+
+<!--START_SECTION:activity-->
 
 
 <!--
