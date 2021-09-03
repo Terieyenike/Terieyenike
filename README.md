@@ -1,10 +1,10 @@
 ### Hey, I'm Teri 👋
 
-<p>I'm a JavaScript Engineer based in Lagos.</p> 
+I'm JavaScript Engineer based in Lagos and I love writing and building interfaces with React. 
 
 Teri has the ability to delve into his zen mode as a software developer.
 
-If I'm not coding tweeting, I'm likely shooting with my camera as a street photographer (I'm a huge art enthusiast) creating moments in pixels. See here, [Instagram](https://instagram.com/terieyenike)
+If I'm not coding or tweeting, I'm likely shooting with my camera as a street photographer (I'm a huge art enthusiast) creating moments in pixels. See here, [Pexels](https://www.pexels.com/@teri-eyenike-94012)
 
 > There is no Yoda. Continue to work to see what you can achieve.
 
